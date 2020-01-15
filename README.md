@@ -16,3 +16,10 @@ All of the projects use publically availible dataset and are being guided by my 
   Using results from the univariate run to select best 2,3,4 and five features to run the model with using K=5
   then again using grid search to find best value for K for best 3 multivariate model runs
   
+  Some ideas for next steps:
+
+  Modify the knn_train_test() function to use k-fold cross validation instead of test/train validation.
+  Modify the knn_train_test() function to perform the data cleaning as well.
+  
+  
+  
