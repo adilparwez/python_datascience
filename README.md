@@ -20,6 +20,14 @@ All of the projects use publically availible dataset and are being guided by my 
 
   Modify the knn_train_test() function to use k-fold cross validation instead of test/train validation.
   Modify the knn_train_test() function to perform the data cleaning as well.
+ 
+ 
+2. Predicting House Prices using the Linear regression model
+   This dataset is availible inb the respository. Description of dataset can be found at: 
+   https://s3.amazonaws.com/dq-content/307/data_description.txt  
   
-  
+   focuses on Featuring Engineers and using different methods to validate the model results.
+   Built in a iterative way where feature engineering expriment is done and then the functions are modified to bring in what  works.
+   
+   
   
